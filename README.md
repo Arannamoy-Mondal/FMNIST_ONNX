@@ -1,4 +1,5 @@
-# [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repo/blob/main/notebook.ipynb)
+# EDA KMNIST
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arannamoy-Mondal/FMNIST_ONNX/blob/main/eda_kmnist.ipynb)
 
 
 # Reuters_BiLSTM
