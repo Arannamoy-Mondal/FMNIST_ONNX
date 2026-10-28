@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "news_embeddings:00000"
+  metadata_path: "00000/news_embeddings\\metadata.tsv"
+  tensor_path: "00000/news_embeddings\\tensors.tsv"
+}
